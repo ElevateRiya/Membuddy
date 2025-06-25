@@ -90,3 +90,6 @@ api_keys.txt
 # Backup files
 *_backup.xlsx
 *_backup.xls
+
+# Documentation files to exclude from git
+ENHANCEMENT_SUMMARY.md
