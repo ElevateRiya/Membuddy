@@ -258,4 +258,4 @@ For issues and questions:
 
 **Membuddy** - Your intelligent membership management assistant ! 🤖
 
-*Built with LangChain, Groq LLM, Streamlit, and Chroma Vector Store* 
+*Built with LangChain, Groq LLM, Streamlit..* 
