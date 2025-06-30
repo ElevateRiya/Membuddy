@@ -258,4 +258,3 @@ For issues and questions:
 
 **Membuddy** - Your intelligent membership management assistant ! 🤖
 
-*Built with LangChain, Groq LLM, Streamlit..* 
