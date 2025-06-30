@@ -256,6 +256,6 @@ For issues and questions:
 
 ---
 
-**Membuddy** - Your intelligent membership management assistant! 🤖
+**Membuddy** - Your intelligent membership management assistant is here! 🤖
 
 *Built with LangChain, Groq LLM, Streamlit, and Chroma Vector Store* 
