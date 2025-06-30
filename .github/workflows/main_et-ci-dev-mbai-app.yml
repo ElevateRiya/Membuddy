@@ -65,4 +65,4 @@ jobs:
         with:
           app-name: 'et-ci-dev-mbai-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_497C60613FB7449DBB45C492D07DE95A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BE54332319C543F0A99D922B4690A44C }}
